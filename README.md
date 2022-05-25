@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BeCorbie
 - 👀 I’m interested in python programming, machine learning, deep learning and robotics
-- 🌱 I’m currently learning python and basic robotics...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python and basic robotics!
+
 
 <!---
 BeCorbie/BeCorbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
